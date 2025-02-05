@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["API", "Express", "Node.js", "HNG12"],
-  "author": "Your Name",
+  "author": "Jesutofunmi Afolabi",
   "license": "ISC",
-  "description": "A simple Express API for HNG12-Staging that handles user data and authentication.",
+  "description": "A simple Express API for HNG12-Staging.",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2"
