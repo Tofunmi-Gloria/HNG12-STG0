@@ -11,7 +11,7 @@ app.use(express.urlencoded({extended: true}));
 app.get("/",(req, res)=> {
     res.status(200).json({
         email:"jesutofunmiafolabi73@gmail.com",
-        current_datetime: new Date().toISOString(),
+        current_datetime: new Date(),
         github_url:"https://github.com/Tofunmi-Gloria/HNG12-STG0.git"
     });
 });
