@@ -1,20 +1,64 @@
-# HNG12-API
 
-## Project Description
-This is a simple API built with Node.js and Express. The API serves a JSON response with:
-- A sample email address
-- The current datetime
-- A link to the GitHub repository
+# Project Name: My Express API
 
-The purpose of this project is to meet the requirements for the HNG Internship Stage 0 task.
+## Description
+This project is a simple RESTful API built using **Node.js** and **Express**. The API exposes endpoints that return essential information such as the current date and time, email, and GitHub URL associated with the project.
 
 ## Setup Instructions
 
-### Prerequisites:
-- Node.js and npm should be installed on your local system.
-- You can install these from [Node.js official website](https://nodejs.org/).
-
-### Installation:
-1. Clone the repository to your local system:
+To run this project locally:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/Tofunmi-Gloria/HNG12-STG0.git
+   git clone https://github.com/yourusername/your-repo.git
+
+	2.	Navigate to the project directory:
+
+cd your-repo
+
+
+	3.	Install the dependencies:
+
+npm install
+
+
+	4.	Run the application:
+
+node index.js
+
+
+	5.	The API will be running on http://localhost:3000.
+
+API Documentation
+
+Endpoint: GET /
+
+URL: http://localhost:3000/
+
+Request:
+
+	•	No parameters required.
+
+Response:
+
+{
+  "email": "hephzylizzy@gmail.com",
+  "current_datetime": "2025-02-05T00:00:00.000Z",
+  "github_url": "https://github.com/yourusername/your-repo"
+}
+
+Example Usage:
+
+	•	Open your browser or use a tool like Postman to make a GET request to http://localhost:3000/.
+	•	You will receive a JSON response with the following data:
+	•	email: Your project’s associated email.
+	•	current_datetime: The current date and time.
+	•	github_url: Link to your project’s GitHub repository.
+
+Backlink
+
+For more information on hiring Node.js developers, check out: HNG Node.js Developers
+
+Deployment
+
+The API has been deployed to Render and is publicly accessible via the following URL:
+Your Render API Link
