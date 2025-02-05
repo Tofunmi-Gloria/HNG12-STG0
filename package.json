@@ -6,10 +6,10 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["API", "Express", "Node.js", "HNG12"],
   "author": "Your Name",
   "license": "ISC",
-  "description": "A simple Express API for HNG12-Staging.",
+  "description": "A simple Express API for HNG12-Staging that handles user data and authentication.",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2"
