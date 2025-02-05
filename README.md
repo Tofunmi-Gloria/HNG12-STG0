@@ -1,5 +1,5 @@
 
-# Project Name: My Express API
+# Project Name:HNG 12 STAGE 0 Task
 
 ## Description
 This project is a simple RESTful API built using **Node.js** and **Express**. The API exposes endpoints that return essential information such as the current date and time, email, and GitHub URL associated with the project.
