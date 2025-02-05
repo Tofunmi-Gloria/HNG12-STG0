@@ -17,4 +17,4 @@ The purpose of this project is to meet the requirements for the HNG Internship S
 ### Installation:
 1. Clone the repository to your local system:
    ```bash
-   git clone https://github.com/yourusername/HNG12-API.git
+   git clone https://github.com/Tofunmi-Gloria/HNG12-STG0.git
