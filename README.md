@@ -9,7 +9,7 @@ This project is a simple RESTful API built using **Node.js** and **Express**. Th
 To run this project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Tofunmi-Gloria/HNG12-STG0.git
 
 	2.	Navigate to the project directory:
 
@@ -41,9 +41,9 @@ Request:
 Response:
 
 {
-  "email": "hephzylizzy@gmail.com",
+  "email": "jesutofunmiafolabi73@gmail.com",
   "current_datetime": "2025-02-05T00:00:00.000Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/Tofunmi-Gloria/HNG12-STG0.git"
 }
 
 Example Usage:
