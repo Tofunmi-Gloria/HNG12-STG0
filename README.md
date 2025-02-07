@@ -61,4 +61,4 @@ For more information on hiring Node.js developers, check out: HNG Node.js Develo
 Deployment
 
 The API has been deployed to Render and is publicly accessible via the following URL:
-Your Render API Link
+https://hng12-stg0.onrender.com
